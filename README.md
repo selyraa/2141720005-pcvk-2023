@@ -1,1 +1,3 @@
-# 2141720005-pcvk-2023
+Nama : Sely Ruli Amanda
+NIM : 2141720005
+Kelas : TI-3H
